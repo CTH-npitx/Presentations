@@ -2,6 +2,12 @@
 
 All of Charlies Presentations
 
+
+* Tech
+
+* Core
+
+* Club or favorite memory
 # Presentation Reqriments
 
 Here are all the reqriments, broken into 2 main sections (might subdivide more latter on)
@@ -20,7 +26,7 @@ Here are all the reqriments, broken into 2 main sections (might subdivide more l
 1. do more than just a simple description (like name of module)
 2. recomendations for haveing high quality over the general slideshow (some specialized sections bellow):
 
-   * Cohen- 1 slide for each 
+   * Cohen- 1 slide for each
    * Charlie- high quality slides. If you want to put all points on 1 slide, make up for the decrease in slide numbers (and, to be fair, decrease in space you can use) via a more interesting, high quality slide.
    * the easiest way: "hybrid", or using parts from all of them
 
