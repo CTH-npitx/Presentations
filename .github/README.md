@@ -6,6 +6,12 @@ All of Charlies Presentations
 
 * Tech
 
+&nbsp;	-what project did you work on this term
+
+&nbsp;	-identify the skills used
+
+&nbsp;	-what was challenging \& what you liked
+
 * Core
 
 * Club or favorite memory
