@@ -14,6 +14,12 @@ All of Charlies Presentations
 
 * Core
 
+&nbsp;	-what skill/ concept did you learn
+
+&nbsp;	-how can this help you at home
+
+&nbsp;	-how can this help you at work
+
 * Club or favorite memory
 
 # \_\_\_
