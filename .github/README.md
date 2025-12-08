@@ -22,6 +22,8 @@ All of Charlies Presentations
 
 * Club or favorite memory
 
+&nbsp;	-self explanatory
+
 # \_\_\_
 # Presentation Reqriments
 
