@@ -25,6 +25,7 @@ All of Charlies Presentations
 &nbsp;	-self explanatory
 
 # \_\_\_
+
 # Presentation Reqriments
 
 Here are all the reqriments, broken into 2 main sections (might subdivide more latter on)
