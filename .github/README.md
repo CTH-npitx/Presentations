@@ -2,12 +2,15 @@
 
 All of Charlies Presentations
 
+### Requirments:
 
 * Tech
 
 * Core
 
 * Club or favorite memory
+
+# \_\_\_
 # Presentation Reqriments
 
 Here are all the reqriments, broken into 2 main sections (might subdivide more latter on)
