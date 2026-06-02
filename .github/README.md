@@ -24,6 +24,26 @@ All of Charlies Presentations
 
  	-self explanatory
 
+
+
+# \_\_\_
+
+
+
+Format
+
+Title Slide
+
+Tech Slide
+
+Share 3 specific steps you took. Share what you gained
+
+
+
+Core
+
+Name 2
+
 # \_\_\_
 
 # Presentation Requirements
