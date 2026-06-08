@@ -362,5 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /.transfer
-/Fall 2025/Screenshots/Thumbs.db
 /.github/Thumbs.db
+/Current Presentation/Components/Thumbs.db
+Fall 2025/Screenshots/Thumbs.db
