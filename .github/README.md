@@ -2,55 +2,56 @@
 
 All of Charlies Presentations
 
-## Requirements:
 
-* Tech
 
- 	-what project did you work on this term
+## Requirements
 
- 	-identify the skills used
-
- 	-what was challenging \& what you liked
-
-* Core
-
- 	-what skill/ concept did you learn
-
- 	-how can this help you at home
-
- 	-how can this help you at work
-
-* Club or favorite memory
-
- 	-self explanatory
+All the requirements, such as components oft the thing
 
 
 
+### Slideshow Format
 
-
-Format
-
-Title Slide
-
-Tech Slide
-
-Share 3 specific steps you took. Share what you gained
+Format of the slideshow
 
 
 
-Core
+#### Components
 
-Name 2
+The different components
+
+1. ##### Beginning Slide
+
+   * Term ("season" and year)
+   * Name
+2. ##### Tech
+
+   * What project did you work on this term
+
+     * share 3 specific tasks used
+   * Share what you gained
+3. ##### Core
+
+   * Name two skills that you learned
+   * what's the value of those skills
+   * how do you plan to apply them to your workday
+4. ##### Elective/ Club
+
+   * favorite memory
+5. ##### Favorite Memory
+
+   * favorite memory of this term
+6. ##### Ending Slide
+
+   * self-explanatory
+
+#### Notes on design
+
+1. 
 
 
 
-
-
-# Presentation Requirements
-
-Here are all the Requirements, broken into 2 main sections (might subdivide more latter on)
-
-## General Requirements
+### General Requirements
 
 1. Three things learned in tech
 2. Three things learned in core
@@ -63,7 +64,7 @@ Here are all the Requirements, broken into 2 main sections (might subdivide more
 
 
 
-
+\_\_\_
 
 ## Notes
 
