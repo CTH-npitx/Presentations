@@ -26,8 +26,6 @@ All of Charlies Presentations
 
 
 
-# \_\_\_
-
 
 
 Format
@@ -44,7 +42,9 @@ Core
 
 Name 2
 
-# \_\_\_
+
+
+
 
 # Presentation Requirements
 
@@ -58,6 +58,12 @@ Here are all the Requirements, broken into 2 main sections (might subdivide more
 4. favorite memory from **this** term
 
    * **must**, I repeat, **must** be from *this* term.
+
+
+
+
+
+
 
 ## Notes
 
