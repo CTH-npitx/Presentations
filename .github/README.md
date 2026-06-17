@@ -1,6 +1,5 @@
 # Presentations
-
-All of Charlies Presentations
+All of Charlies Presentations 
 
 ## Requirements
 
@@ -61,7 +60,6 @@ The different components
 \_\_\_
 
 ## Notes
-
 1. do more than just a simple description (like name of module)
 2. recommendations for having high quality over the general slideshow (some specialized sections bellow):
 
