@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /.transfer
 *.db
+.vs/Presentations/v17/.suo
